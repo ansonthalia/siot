@@ -1,0 +1,4148 @@
+{
+  "timelineObjects" : [ {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 515152891,
+        "longitudeE7" : -719769,
+        "placeId" : "ChIJ_7Q5M7UcdkgRCv-7nswC520",
+        "address" : "Whitechapel High St\nShadwell, London\nE1 7PT\nUK",
+        "name" : "Aldgate East Station",
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1572566815332",
+        "endTimestampMs" : "1572567122199"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 515154220,
+      "centerLngE7" : -713750
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 515154337,
+        "longitudeE7" : -714796,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 514913786,
+        "longitudeE7" : -1940866,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1572567122199",
+        "endTimestampMs" : "1572568660259"
+      },
+      "distance" : 9298,
+      "activityType" : "IN_SUBWAY",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 82.46451457327727
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 8.322031981980414
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 8.173802498636178
+      } ],
+      "transitPath" : {
+        "transitStops" : [ {
+          "latitudeE7" : 515141450,
+          "longitudeE7" : -754790,
+          "placeId" : "ChIJxx7AWksDdkgRU7ET2gD2t1c",
+          "name" : "Aldgate Station"
+        }, {
+          "latitudeE7" : 514943240,
+          "longitudeE7" : -1831810,
+          "placeId" : "ChIJY2zjBF4FdkgRBITPvkNYBho",
+          "name" : "Gloucester Road"
+        } ],
+        "name" : "",
+        "hexRgbColor" : "F2BD09"
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 514913822,
+        "longitudeE7" : -1940748,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 514941254,
+        "longitudeE7" : -1895530,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1572568660259",
+        "endTimestampMs" : "1572568926536"
+      },
+      "distance" : 449,
+      "activityType" : "WALKING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 77.1942524730256
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 9.461331179311234
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 8.134843980581653
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 514915428,
+          "lngE7" : -1936133
+        }, {
+          "latE7" : 514922523,
+          "lngE7" : -1929475
+        }, {
+          "latE7" : 514930191,
+          "lngE7" : -1914740
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 514941254,
+        "longitudeE7" : -1895530,
+        "placeId" : "ChIJlajgMvUPdkgR66jThI8RfOQ",
+        "address" : "17 Collingham Pl\nEarl's Court, London\nSW5 0QF\nUK",
+        "name" : "17 Collingham Pl",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1572568926536",
+        "endTimestampMs" : "1572599777139"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 514942060,
+      "centerLngE7" : -1894398
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 514941254,
+        "longitudeE7" : -1895530,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 514915480,
+        "longitudeE7" : -1940855,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1572599777139",
+        "endTimestampMs" : "1572600157381"
+      },
+      "distance" : 426,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 95.53593340802887
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 2.213811570508532
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 1.230952559836486
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 514941177,
+          "lngE7" : -1897424
+        }, {
+          "latE7" : 514921875,
+          "lngE7" : -1930463
+        }, {
+          "latE7" : 514915428,
+          "lngE7" : -1936133
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 514915480,
+        "longitudeE7" : -1940855,
+        "placeId" : "ChIJTYFlZIsPdkgRNvh8Ud9OzLg",
+        "address" : "Earls Ct Rd\nEarl's Court, London\nSW5 9AA\nUK",
+        "name" : "Earl's Court Station",
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1572600157381",
+        "endTimestampMs" : "1572600554604"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 514915972,
+      "centerLngE7" : -1940200
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 514915480,
+        "longitudeE7" : -1940855,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 514434966,
+        "longitudeE7" : -2080200,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1572600554604",
+        "endTimestampMs" : "1572601314818"
+      },
+      "distance" : 5656,
+      "activityType" : "IN_SUBWAY",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 94.4828342643864
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 4.4647557731103165
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.534262045604031
+      } ],
+      "transitPath" : {
+        "transitStops" : [ {
+          "latitudeE7" : 514872591,
+          "longitudeE7" : -1955188,
+          "placeId" : "ChIJtwyqlI4PdkgRwsyoCUIANKg",
+          "name" : "West Brompton"
+        }, {
+          "latitudeE7" : 514453602,
+          "longitudeE7" : -2065672,
+          "placeId" : "ChIJ0bLwlEYPdkgRa2uG9BtMZ88",
+          "name" : "Southfields Station"
+        } ],
+        "name" : "",
+        "hexRgbColor" : "0D611F"
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 514434980,
+        "longitudeE7" : -2080186,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 514383721,
+        "longitudeE7" : -2192416,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1572601314818",
+        "endTimestampMs" : "1572601844529"
+      },
+      "distance" : 966,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 38.57046462908227
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 18.495984984014957
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 17.713267554251825
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 514452743,
+          "lngE7" : -2060894
+        }, {
+          "latE7" : 514378967,
+          "lngE7" : -2130647
+        }, {
+          "latE7" : 514386024,
+          "lngE7" : -2193078
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 514385561,
+        "longitudeE7" : -2190932,
+        "placeId" : "ChIJB41fHTEPdkgRdXQB66K3q4E",
+        "address" : "36 Queensmere Rd\nWimbledon, London\nSW19 5PB\nUK",
+        "name" : "36 Queensmere Rd",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1572601844529",
+        "endTimestampMs" : "1572614632381"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 514383927,
+      "centerLngE7" : -2191777
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 514385561,
+        "longitudeE7" : -2190932,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 514385561,
+        "longitudeE7" : -2190932,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1572614632381",
+        "endTimestampMs" : "1572615847915"
+      },
+      "distance" : 4712,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 98.78577541858388
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.894310325658307
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.1434469346774994
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 514386253,
+          "lngE7" : -2191129
+        }, {
+          "latE7" : 514254150,
+          "lngE7" : -2175928
+        }, {
+          "latE7" : 514209022,
+          "lngE7" : -2066033
+        }, {
+          "latE7" : 514201240,
+          "lngE7" : -2062181
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 514385561,
+        "longitudeE7" : -2190932,
+        "placeId" : "ChIJB41fHTEPdkgRdXQB66K3q4E",
+        "address" : "36 Queensmere Rd\nWimbledon, London\nSW19 5PB\nUK",
+        "name" : "36 Queensmere Rd",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1572615847915",
+        "endTimestampMs" : "1572623916899"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 514384000,
+      "centerLngE7" : -2191956
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 514384861,
+        "longitudeE7" : -2191291,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 514383726,
+        "longitudeE7" : -2192410,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1572623916899",
+        "endTimestampMs" : "1572625110992"
+      },
+      "distance" : 5555,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 99.07676296297848
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.6107508413506528
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.20788462276800498
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 514386177,
+          "lngE7" : -2191669
+        }, {
+          "latE7" : 514201774,
+          "lngE7" : -2047016
+        }, {
+          "latE7" : 514189949,
+          "lngE7" : -2027543
+        }, {
+          "latE7" : 514201240,
+          "lngE7" : -2062181
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 514385561,
+        "longitudeE7" : -2190932,
+        "placeId" : "ChIJB41fHTEPdkgRdXQB66K3q4E",
+        "address" : "36 Queensmere Rd\nWimbledon, London\nSW19 5PB\nUK",
+        "name" : "36 Queensmere Rd",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1572625110992",
+        "endTimestampMs" : "1572795479618"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 514383936,
+      "centerLngE7" : -2191937
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 514385561,
+        "longitudeE7" : -2190932,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 514409494,
+        "longitudeE7" : -2218293,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1572795479618",
+        "endTimestampMs" : "1572795614414"
+      },
+      "distance" : 474,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 77.82769254864267
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 17.881706627600156
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 3.135701465853112
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 514386253,
+          "lngE7" : -2191129
+        }, {
+          "latE7" : 514402694,
+          "lngE7" : -2240408
+        }, {
+          "latE7" : 514402694,
+          "lngE7" : -2232856
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 514409494,
+        "longitudeE7" : -2218293,
+        "placeId" : "ChIJcYU5dTAPdkgR_2bdzzLF-1c",
+        "address" : "90 Inner Park Rd\nLondon\nSW19 6DA\nUK",
+        "name" : "Co-op Food - Wimbledon - Inner Park Road",
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1572795614414",
+        "endTimestampMs" : "1572796008375"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 514404700,
+      "centerLngE7" : -2228311
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 514404488,
+        "longitudeE7" : -2237109,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 514378760,
+        "longitudeE7" : -2235137,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1572796008375",
+        "endTimestampMs" : "1572796640851"
+      },
+      "distance" : 289,
+      "activityType" : "WALKING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 75.85188044679494
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 17.554705817787852
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 4.162720626675965
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 514403495,
+          "lngE7" : -2237353
+        }, {
+          "latE7" : 514395332,
+          "lngE7" : -2241712
+        }, {
+          "latE7" : 514378089,
+          "lngE7" : -2234566
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 514375858,
+        "longitudeE7" : -2306633,
+        "placeId" : "ChIJ0w8-CcwIdkgR4VLzkHvx3zw",
+        "address" : "Windmill Rd\nWimbledon, London\nSW19 5NR\nUK",
+        "name" : "Wimbledon and Putney Commons",
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1572796640851",
+        "endTimestampMs" : "1572800291338"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 514378600,
+      "centerLngE7" : -2234480
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 514377732,
+        "longitudeE7" : -2233608,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 514385561,
+        "longitudeE7" : -2190932,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1572800291338",
+        "endTimestampMs" : "1572800784346"
+      },
+      "distance" : 308,
+      "activityType" : "WALKING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 82.38462324399578
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 10.82822653570296
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 2.998855630893253
+      } ]
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 514385561,
+        "longitudeE7" : -2190932,
+        "placeId" : "ChIJB41fHTEPdkgRdXQB66K3q4E",
+        "address" : "36 Queensmere Rd\nWimbledon, London\nSW19 5PB\nUK",
+        "name" : "36 Queensmere Rd",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1572800784346",
+        "endTimestampMs" : "1572807069433"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 514384209,
+      "centerLngE7" : -2191931
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 514385561,
+        "longitudeE7" : -2190932,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 514942420,
+        "longitudeE7" : -1896322,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1572807069433",
+        "endTimestampMs" : "1572809301000"
+      },
+      "distance" : 9045,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 63.06045475713654
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 26.548739660803243
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 3.8572389104327143
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 514386253,
+          "lngE7" : -2191129
+        }, {
+          "latE7" : 514385147,
+          "lngE7" : -2211742
+        }, {
+          "latE7" : 514377670,
+          "lngE7" : -2234597
+        }, {
+          "latE7" : 514715957,
+          "lngE7" : -2112004
+        }, {
+          "latE7" : 514835319,
+          "lngE7" : -2193153
+        }, {
+          "latE7" : 514887733,
+          "lngE7" : -1921938
+        }, {
+          "latE7" : 514939880,
+          "lngE7" : -1894326
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 514941254,
+        "longitudeE7" : -1895530,
+        "placeId" : "ChIJlajgMvUPdkgR66jThI8RfOQ",
+        "address" : "17 Collingham Pl\nEarl's Court, London\nSW5 0QF\nUK",
+        "name" : "17 Collingham Pl",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1572809301000",
+        "endTimestampMs" : "1572815536098"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 514941619,
+      "centerLngE7" : -1894973
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 514941254,
+        "longitudeE7" : -1895530,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 514941254,
+        "longitudeE7" : -1895530,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1572815536098",
+        "endTimestampMs" : "1572816330988"
+      },
+      "distance" : 1053,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 96.0864536360496
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 2.54563080423262
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.5336792107091308
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 514940414,
+          "lngE7" : -1894302
+        }, {
+          "latE7" : 514944114,
+          "lngE7" : -1824261
+        }, {
+          "latE7" : 514944000,
+          "lngE7" : -1824202
+        }, {
+          "latE7" : 514942855,
+          "lngE7" : -1824765
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 514941254,
+        "longitudeE7" : -1895530,
+        "placeId" : "ChIJlajgMvUPdkgR66jThI8RfOQ",
+        "address" : "17 Collingham Pl\nEarl's Court, London\nSW5 0QF\nUK",
+        "name" : "17 Collingham Pl",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1572816330988",
+        "endTimestampMs" : "1572856883745"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 514943331,
+      "centerLngE7" : -1895266
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 514941254,
+        "longitudeE7" : -1895530,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 514863497,
+        "longitudeE7" : -1985710,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1572856883745",
+        "endTimestampMs" : "1572857309382"
+      },
+      "distance" : 1187,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 96.03936785316165
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 2.9088792401169417
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.8204381612056688
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 514940147,
+          "lngE7" : -1893911
+        }, {
+          "latE7" : 514869804,
+          "lngE7" : -1969363
+        }, {
+          "latE7" : 514863891,
+          "lngE7" : -1985481
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 514862765,
+        "longitudeE7" : -1999099,
+        "placeId" : "ChIJFSn4qJkPdkgR2X0-cgVLEhc",
+        "address" : "Lower\nGround Floor\n62 Lillie Rd\nHammersmith, London\nSW6 1TN\nUK",
+        "name" : "Marlon’s Kitchen",
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1572857309382",
+        "endTimestampMs" : "1572857781266"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 514865529,
+      "centerLngE7" : -1979214
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 514870828,
+        "longitudeE7" : -1966614,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 514978095,
+        "longitudeE7" : -1745235,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1572857781266",
+        "endTimestampMs" : "1572859114235"
+      },
+      "distance" : 2208,
+      "activityType" : "IN_BUS",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_BUS",
+        "probability" : 89.72061136331874
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 8.355261202348196
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 1.089303893709506
+      } ],
+      "transitPath" : {
+        "transitStops" : [ {
+          "latitudeE7" : 514865533,
+          "longitudeE7" : -1982765,
+          "placeId" : "ChIJmRlHN44PdkgRzcqgiLgMS3Y",
+          "name" : "Empress State Bldg W Brompton (Stop BA)"
+        }, {
+          "latitudeE7" : 514944371,
+          "longitudeE7" : -1747855,
+          "placeId" : "ChIJtS3EokIFdkgR_EaGnAE2a_U",
+          "name" : "South Kensington Station (Stop E)"
+        } ],
+        "name" : "430",
+        "hexRgbColor" : "D32F2F"
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 514978095,
+        "longitudeE7" : -1745235,
+        "placeId" : "ChIJP9oAE0MFdkgR3iKGFKZO1SE",
+        "address" : "Exhibition Rd\nSouth Kensington, London\nSW7 2DD\nUK",
+        "name" : "Science Museum",
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1572859114235",
+        "endTimestampMs" : "1572871907067"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "childVisits" : [ {
+        "location" : {
+          "latitudeE7" : 514979899,
+          "longitudeE7" : -1745124,
+          "placeId" : "ChIJxS1TakMFdkgRBMsu1d23DjU",
+          "address" : "Imperial College Rd\nKensington, London\nSW7 4YQ\nUK",
+          "name" : "Dyson School of Design Engineering, Imperial College London",
+          "sourceInfo" : {
+            "deviceTag" : -1853785651
+          }
+        },
+        "duration" : {
+          "startTimestampMs" : "1572859114235",
+          "endTimestampMs" : "1572871907067"
+        },
+        "placeConfidence" : "MEDIUM_CONFIDENCE",
+        "centerLatE7" : 514980254,
+        "centerLngE7" : -1743325
+      } ],
+      "centerLatE7" : 514980254,
+      "centerLngE7" : -1743325
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 514978095,
+        "longitudeE7" : -1745235,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 514982773,
+        "longitudeE7" : -1778106,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1572871907067",
+        "endTimestampMs" : "1572872169348"
+      },
+      "distance" : 256,
+      "activityType" : "WALKING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 69.99892359075965
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 18.721252729554976
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 6.125152783782208
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 514976768,
+          "lngE7" : -1742132
+        }, {
+          "latE7" : 514980812,
+          "lngE7" : -1751073
+        }, {
+          "latE7" : 514982757,
+          "lngE7" : -1778165
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 514987997,
+        "longitudeE7" : -1748772,
+        "placeId" : "ChIJAQoi2mcFdkgRhi5pHDcbkTE",
+        "address" : "South Kensington, London\nSW7 2AZ\nUK",
+        "name" : "Imperial College London",
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1572872169348",
+        "endTimestampMs" : "1572880382841"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "childVisits" : [ {
+        "location" : {
+          "latitudeE7" : 514982841,
+          "longitudeE7" : -1781899,
+          "placeId" : "ChIJE09ckFwFdkgRNaKPsd1xjW0",
+          "address" : "Imperial College London\nSouth Kensington Campus\nSouth Kensington, London\nSW7 2AZ\nUK",
+          "name" : "Imperial College London Central Library",
+          "sourceInfo" : {
+            "deviceTag" : -1853785651
+          }
+        },
+        "duration" : {
+          "startTimestampMs" : "1572872169348",
+          "endTimestampMs" : "1572872676309"
+        },
+        "placeConfidence" : "MEDIUM_CONFIDENCE",
+        "centerLatE7" : 514982708,
+        "centerLngE7" : -1775092
+      }, {
+        "location" : {
+          "latitudeE7" : 514979899,
+          "longitudeE7" : -1745124,
+          "placeId" : "ChIJxS1TakMFdkgRBMsu1d23DjU",
+          "address" : "Imperial College Rd\nKensington, London\nSW7 4YQ\nUK",
+          "name" : "Dyson School of Design Engineering, Imperial College London",
+          "sourceInfo" : {
+            "deviceTag" : -1853785651
+          }
+        },
+        "duration" : {
+          "startTimestampMs" : "1572872716252",
+          "endTimestampMs" : "1572880382841"
+        },
+        "placeConfidence" : "MEDIUM_CONFIDENCE",
+        "centerLatE7" : 514981661,
+        "centerLngE7" : -1743678
+      } ],
+      "centerLatE7" : 514981850,
+      "centerLngE7" : -1749350
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 514980271,
+        "longitudeE7" : -1743590,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 514978095,
+        "longitudeE7" : -1745235,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1572880382841",
+        "endTimestampMs" : "1572881661841"
+      },
+      "distance" : 1522,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 98.18732301593334
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.7670767460831477
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.5242320494570671
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 514981307,
+          "lngE7" : -1743734
+        }, {
+          "latE7" : 514959259,
+          "lngE7" : -1736617
+        }, {
+          "latE7" : 514924545,
+          "lngE7" : -1774100
+        }, {
+          "latE7" : 514976768,
+          "lngE7" : -1742132
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 514978095,
+        "longitudeE7" : -1745235,
+        "placeId" : "ChIJP9oAE0MFdkgR3iKGFKZO1SE",
+        "address" : "Exhibition Rd\nSouth Kensington, London\nSW7 2DD\nUK",
+        "name" : "Science Museum",
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1572881661841",
+        "endTimestampMs" : "1572898495434"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "childVisits" : [ {
+        "location" : {
+          "latitudeE7" : 514979899,
+          "longitudeE7" : -1745124,
+          "placeId" : "ChIJxS1TakMFdkgRBMsu1d23DjU",
+          "address" : "Imperial College Rd\nKensington, London\nSW7 4YQ\nUK",
+          "name" : "Dyson School of Design Engineering, Imperial College London",
+          "sourceInfo" : {
+            "deviceTag" : -1853785651
+          }
+        },
+        "duration" : {
+          "startTimestampMs" : "1572881661841",
+          "endTimestampMs" : "1572898495434"
+        },
+        "placeConfidence" : "MEDIUM_CONFIDENCE",
+        "centerLatE7" : 514979750,
+        "centerLngE7" : -1743482
+      } ],
+      "centerLatE7" : 514979750,
+      "centerLngE7" : -1743482
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 514974319,
+        "longitudeE7" : -1739244,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 514633720,
+        "longitudeE7" : -1151310,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1572898495434",
+        "endTimestampMs" : "1572899959649"
+      },
+      "distance" : 6282,
+      "activityType" : "IN_SUBWAY",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 95.68656985939874
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 3.6269981823986686
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.5054782235233638
+      } ],
+      "transitPath" : {
+        "transitStops" : [ {
+          "latitudeE7" : 514941614,
+          "longitudeE7" : -1739557,
+          "placeId" : "ChIJ91cwg0IFdkgR18p5WmlWiTY",
+          "name" : "South Kensington"
+        }, {
+          "latitudeE7" : 514952103,
+          "longitudeE7" : -1438979,
+          "placeId" : "ChIJTdzrqiEFdkgRFf1sCDZPNl0",
+          "name" : "Victoria Station"
+        } ],
+        "name" : "",
+        "hexRgbColor" : "0D611F"
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 514633720,
+        "longitudeE7" : -1151310,
+        "placeId" : "ChIJQYoOwWcEdkgRb8GILmpslXg",
+        "address" : "446 Brixton Rd\nBrixton, London\nSW9 8ED\nUK",
+        "name" : "Marks & Spencer BRIXTON",
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1572899959649",
+        "endTimestampMs" : "1572900478650"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 514632871,
+      "centerLngE7" : -1154743
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 514633720,
+        "longitudeE7" : -1151310,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 514638943,
+        "longitudeE7" : -1138834,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1572900478650",
+        "endTimestampMs" : "1572900538700"
+      },
+      "distance" : 104,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 97.10397597258581
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.9150622214922062
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.6426740085656582
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 514632720,
+          "lngE7" : -1151818
+        }, {
+          "latE7" : 514637031,
+          "lngE7" : -1147328
+        }, {
+          "latE7" : 514638977,
+          "lngE7" : -1138743
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 514638943,
+        "longitudeE7" : -1138834,
+        "placeId" : "ChIJcW3VS2YEdkgRT1jL57yGDD4",
+        "address" : "19 Beehive Pl\nBrixton, London\nSW9 7QR\nUK",
+        "name" : "Brixton Cafe",
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1572900538700",
+        "endTimestampMs" : "1572945309294"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 514638683,
+      "centerLngE7" : -1139660
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 514638943,
+        "longitudeE7" : -1138834,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 514940517,
+        "longitudeE7" : -1893768,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1572945309294",
+        "endTimestampMs" : "1572947308396"
+      },
+      "distance" : 6700,
+      "activityType" : "IN_SUBWAY",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 74.69286279435259
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 14.026568934047384
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 11.023695292915644
+      } ],
+      "transitPath" : {
+        "transitStops" : [ {
+          "latitudeE7" : 514625983,
+          "longitudeE7" : -1147482,
+          "placeId" : "ChIJ-Q0Y1GcEdkgRpwW1k3QNek0",
+          "name" : "Brixton Station"
+        }, {
+          "latitudeE7" : 514952103,
+          "longitudeE7" : -1438979,
+          "placeId" : "ChIJTdzrqiEFdkgRFf1sCDZPNl0",
+          "name" : "Victoria Station"
+        } ],
+        "name" : "",
+        "hexRgbColor" : "118DDA"
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 514941254,
+        "longitudeE7" : -1895530,
+        "placeId" : "ChIJlajgMvUPdkgR66jThI8RfOQ",
+        "address" : "17 Collingham Pl\nEarl's Court, London\nSW5 0QF\nUK",
+        "name" : "17 Collingham Pl",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1572947308396",
+        "endTimestampMs" : "1572949957129"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 514941382,
+      "centerLngE7" : -1893229
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 514937726,
+        "longitudeE7" : -1878014,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 514978095,
+        "longitudeE7" : -1745235,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1572949957129",
+        "endTimestampMs" : "1572951080013"
+      },
+      "distance" : 1357,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 99.27462268825828
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.25992343704758647
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.15417411487867122
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 514937591,
+          "lngE7" : -1877954
+        }, {
+          "latE7" : 514936332,
+          "lngE7" : -1851149
+        }, {
+          "latE7" : 514936943,
+          "lngE7" : -1847546
+        }, {
+          "latE7" : 514949722,
+          "lngE7" : -1847666
+        }, {
+          "latE7" : 514953460,
+          "lngE7" : -1849070
+        }, {
+          "latE7" : 514967651,
+          "lngE7" : -1849651
+        }, {
+          "latE7" : 514970512,
+          "lngE7" : -1840064
+        }, {
+          "latE7" : 514978446,
+          "lngE7" : -1790643
+        }, {
+          "latE7" : 514976768,
+          "lngE7" : -1742132
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 514978095,
+        "longitudeE7" : -1745235,
+        "placeId" : "ChIJP9oAE0MFdkgR3iKGFKZO1SE",
+        "address" : "Exhibition Rd\nSouth Kensington, London\nSW7 2DD\nUK",
+        "name" : "Science Museum",
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1572951080013",
+        "endTimestampMs" : "1572963848971"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "childVisits" : [ {
+        "location" : {
+          "latitudeE7" : 514979899,
+          "longitudeE7" : -1745124,
+          "placeId" : "ChIJxS1TakMFdkgRBMsu1d23DjU",
+          "address" : "Imperial College Rd\nKensington, London\nSW7 4YQ\nUK",
+          "name" : "Dyson School of Design Engineering, Imperial College London",
+          "sourceInfo" : {
+            "deviceTag" : -1853785651
+          }
+        },
+        "duration" : {
+          "startTimestampMs" : "1572951080013",
+          "endTimestampMs" : "1572963848971"
+        },
+        "placeConfidence" : "MEDIUM_CONFIDENCE",
+        "centerLatE7" : 514980453,
+        "centerLngE7" : -1742821
+      } ],
+      "centerLatE7" : 514981110,
+      "centerLngE7" : -1745769
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 514978095,
+        "longitudeE7" : -1745235,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 514984472,
+        "longitudeE7" : -1742726,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1572963848971",
+        "endTimestampMs" : "1572966129345"
+      },
+      "distance" : 1452,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 98.68295259706686
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.48451238115671813
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.361304553150602
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 514976768,
+          "lngE7" : -1742132
+        }, {
+          "latE7" : 514959259,
+          "lngE7" : -1736617
+        }, {
+          "latE7" : 514941673,
+          "lngE7" : -1745653
+        }, {
+          "latE7" : 515000419,
+          "lngE7" : -1753485
+        }, {
+          "latE7" : 514984512,
+          "lngE7" : -1742264
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 514987997,
+        "longitudeE7" : -1748772,
+        "placeId" : "ChIJAQoi2mcFdkgRhi5pHDcbkTE",
+        "address" : "South Kensington, London\nSW7 2AZ\nUK",
+        "name" : "Imperial College London",
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1572966129345",
+        "endTimestampMs" : "1572966643061"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 514980058,
+      "centerLngE7" : -1741192
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 514987997,
+        "longitudeE7" : -1748772,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 514941614,
+        "longitudeE7" : -1739557,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1572966643061",
+        "endTimestampMs" : "1572966783315"
+      },
+      "distance" : 527,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 92.08204998773647
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 2.981423205860292
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 2.150318910533415
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 514973373,
+          "lngE7" : -1740023
+        }, {
+          "latE7" : 514959259,
+          "lngE7" : -1736617
+        }, {
+          "latE7" : 514955558,
+          "lngE7" : -1735876
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 514941614,
+        "longitudeE7" : -1739557,
+        "placeId" : "ChIJ91cwg0IFdkgR18p5WmlWiTY",
+        "address" : "Pelham St\nSouth Kensington, London\nSW7 2NB\nUK",
+        "name" : "South Kensington Station",
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1572966783315",
+        "endTimestampMs" : "1572967157752"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 514949269,
+      "centerLngE7" : -1736500
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 514955557,
+        "longitudeE7" : -1734704,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 514980982,
+        "longitudeE7" : -1743312,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1572967157752",
+        "endTimestampMs" : "1572967338579"
+      },
+      "distance" : 297,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 95.19812938470284
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 1.7322356219330388
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 1.3864037982753419
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 514955596,
+          "lngE7" : -1734426
+        }, {
+          "latE7" : 514959373,
+          "lngE7" : -1735181
+        }, {
+          "latE7" : 514971122,
+          "lngE7" : -1738065
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 514978095,
+        "longitudeE7" : -1745235,
+        "placeId" : "ChIJP9oAE0MFdkgR3iKGFKZO1SE",
+        "address" : "Exhibition Rd\nSouth Kensington, London\nSW7 2DD\nUK",
+        "name" : "Science Museum",
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1572967338579",
+        "endTimestampMs" : "1572985381059"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "childVisits" : [ {
+        "location" : {
+          "latitudeE7" : 514979899,
+          "longitudeE7" : -1745124,
+          "placeId" : "ChIJxS1TakMFdkgRBMsu1d23DjU",
+          "address" : "Imperial College Rd\nKensington, London\nSW7 4YQ\nUK",
+          "name" : "Dyson School of Design Engineering, Imperial College London",
+          "sourceInfo" : {
+            "deviceTag" : -1853785651
+          }
+        },
+        "duration" : {
+          "startTimestampMs" : "1572967338579",
+          "endTimestampMs" : "1572985381059"
+        },
+        "placeConfidence" : "MEDIUM_CONFIDENCE",
+        "centerLatE7" : 514980443,
+        "centerLngE7" : -1742855
+      } ],
+      "centerLatE7" : 514980443,
+      "centerLngE7" : -1742855
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 514977014,
+        "longitudeE7" : -1738554,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 514978095,
+        "longitudeE7" : -1745235,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1572985381059",
+        "endTimestampMs" : "1572986279005"
+      },
+      "distance" : 1043,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 97.2618364768934
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 1.6747827488194769
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.3008642074114445
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 514976997,
+          "lngE7" : -1739245
+        }, {
+          "latE7" : 514959373,
+          "lngE7" : -1735181
+        }, {
+          "latE7" : 514944992,
+          "lngE7" : -1735296
+        }, {
+          "latE7" : 514939613,
+          "lngE7" : -1744907
+        }, {
+          "latE7" : 514937362,
+          "lngE7" : -1745713
+        }, {
+          "latE7" : 514959259,
+          "lngE7" : -1736617
+        }, {
+          "latE7" : 514976768,
+          "lngE7" : -1742132
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 514978095,
+        "longitudeE7" : -1745235,
+        "placeId" : "ChIJP9oAE0MFdkgR3iKGFKZO1SE",
+        "address" : "Exhibition Rd\nSouth Kensington, London\nSW7 2DD\nUK",
+        "name" : "Science Museum",
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1572986279005",
+        "endTimestampMs" : "1572994218226"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "childVisits" : [ {
+        "location" : {
+          "latitudeE7" : 514979899,
+          "longitudeE7" : -1745124,
+          "placeId" : "ChIJxS1TakMFdkgRBMsu1d23DjU",
+          "address" : "Imperial College Rd\nKensington, London\nSW7 4YQ\nUK",
+          "name" : "Dyson School of Design Engineering, Imperial College London",
+          "sourceInfo" : {
+            "deviceTag" : -1853785651
+          }
+        },
+        "duration" : {
+          "startTimestampMs" : "1572986279005",
+          "endTimestampMs" : "1572994218226"
+        },
+        "placeConfidence" : "MEDIUM_CONFIDENCE",
+        "centerLatE7" : 514980649,
+        "centerLngE7" : -1743028
+      } ],
+      "centerLatE7" : 514980649,
+      "centerLngE7" : -1743028
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 514978095,
+        "longitudeE7" : -1745235,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 514941254,
+        "longitudeE7" : -1895530,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1572994218226",
+        "endTimestampMs" : "1572995380992"
+      },
+      "distance" : 1194,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 95.30986274895773
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 1.433571714985821
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 1.2797657085212524
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 514976768,
+          "lngE7" : -1742132
+        }, {
+          "latE7" : 514945716,
+          "lngE7" : -1889308
+        }, {
+          "latE7" : 514945526,
+          "lngE7" : -1895807
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 514941254,
+        "longitudeE7" : -1895530,
+        "placeId" : "ChIJlajgMvUPdkgR66jThI8RfOQ",
+        "address" : "17 Collingham Pl\nEarl's Court, London\nSW5 0QF\nUK",
+        "name" : "17 Collingham Pl",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1572995380992",
+        "endTimestampMs" : "1573028349255"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 514942408,
+      "centerLngE7" : -1895299
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 514935033,
+        "longitudeE7" : -1884834,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 514980851,
+        "longitudeE7" : -1744990,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1573028349255",
+        "endTimestampMs" : "1573029383012"
+      },
+      "distance" : 1372,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 95.99326012353484
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 2.8535118448261954
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.3527030808502973
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 514935836,
+          "lngE7" : -1885491
+        }, {
+          "latE7" : 514935379,
+          "lngE7" : -1882524
+        }, {
+          "latE7" : 514929313,
+          "lngE7" : -1878231
+        }, {
+          "latE7" : 514933891,
+          "lngE7" : -1862300
+        }, {
+          "latE7" : 514935150,
+          "lngE7" : -1855051
+        }, {
+          "latE7" : 514949264,
+          "lngE7" : -1854157
+        }, {
+          "latE7" : 514963226,
+          "lngE7" : -1849872
+        }, {
+          "latE7" : 514975814,
+          "lngE7" : -1836856
+        }, {
+          "latE7" : 514981231,
+          "lngE7" : -1745042
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 514978095,
+        "longitudeE7" : -1745235,
+        "placeId" : "ChIJP9oAE0MFdkgR3iKGFKZO1SE",
+        "address" : "Exhibition Rd\nSouth Kensington, London\nSW7 2DD\nUK",
+        "name" : "Science Museum",
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1573029383012",
+        "endTimestampMs" : "1573055846661"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "childVisits" : [ {
+        "location" : {
+          "latitudeE7" : 514979899,
+          "longitudeE7" : -1745124,
+          "placeId" : "ChIJxS1TakMFdkgRBMsu1d23DjU",
+          "address" : "Imperial College Rd\nKensington, London\nSW7 4YQ\nUK",
+          "name" : "Dyson School of Design Engineering, Imperial College London",
+          "sourceInfo" : {
+            "deviceTag" : -1853785651
+          }
+        },
+        "duration" : {
+          "startTimestampMs" : "1573029383012",
+          "endTimestampMs" : "1573055846661"
+        },
+        "placeConfidence" : "MEDIUM_CONFIDENCE",
+        "centerLatE7" : 514980697,
+        "centerLngE7" : -1743429
+      } ],
+      "centerLatE7" : 514980697,
+      "centerLngE7" : -1743429
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 514979149,
+        "longitudeE7" : -1740844,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 514941614,
+        "longitudeE7" : -1739557,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1573055846661",
+        "endTimestampMs" : "1573056201395"
+      },
+      "distance" : 423,
+      "activityType" : "WALKING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 82.87626941835953
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 8.814950521265882
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 4.411533299843791
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 514979095,
+          "lngE7" : -1741158
+        }, {
+          "latE7" : 514959259,
+          "lngE7" : -1736617
+        }, {
+          "latE7" : 514944076,
+          "lngE7" : -1740656
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 514941614,
+        "longitudeE7" : -1739557,
+        "placeId" : "ChIJ91cwg0IFdkgR18p5WmlWiTY",
+        "address" : "Pelham St\nSouth Kensington, London\nSW7 2NB\nUK",
+        "name" : "South Kensington Station",
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1573056201395",
+        "endTimestampMs" : "1573056654003"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 514942093,
+      "centerLngE7" : -1734586
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 514940910,
+        "longitudeE7" : -1731158,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 514941796,
+        "longitudeE7" : -2255217,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1573056654003",
+        "endTimestampMs" : "1573057451673"
+      },
+      "distance" : 3954,
+      "activityType" : "IN_SUBWAY",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 90.21926543403778
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 3.60820376524025
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 3.2620479475219857
+      } ],
+      "transitPath" : {
+        "transitStops" : [ {
+          "latitudeE7" : 514941614,
+          "longitudeE7" : -1739557,
+          "placeId" : "ChIJ91cwg0IFdkgR18p5WmlWiTY",
+          "name" : "South Kensington"
+        }, {
+          "latitudeE7" : 514924200,
+          "longitudeE7" : -2239520,
+          "placeId" : "ChIJH8xAm7cPdkgRzkghb1eoPCs",
+          "name" : "Hammersmith Station"
+        } ],
+        "name" : "",
+        "hexRgbColor" : "000097"
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 514942751,
+        "longitudeE7" : -2257521,
+        "placeId" : "ChIJI4lzJlUDdkgRmRABcGmAbuk",
+        "address" : "1 Lyric Square\nHammersmith, London\nW6 0NB\nUK",
+        "name" : "Fire Tech Camp",
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1573057451673",
+        "endTimestampMs" : "1573057878362"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 514936731,
+      "centerLngE7" : -2256992
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 514941796,
+        "longitudeE7" : -2255217,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 514922210,
+        "longitudeE7" : -2237083,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1573057878362",
+        "endTimestampMs" : "1573057899527"
+      },
+      "distance" : 257,
+      "activityType" : "WALKING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 80.59375497858593
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 12.712221524796663
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 4.135104867013582
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 514941101,
+          "lngE7" : -2260331
+        }, {
+          "latE7" : 514930267,
+          "lngE7" : -2243856
+        }, {
+          "latE7" : 514924812,
+          "lngE7" : -2233234
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 514922210,
+        "longitudeE7" : -2237083,
+        "placeId" : "ChIJH8xAm7cPdkgRzkghb1eoPCs",
+        "address" : "Hammersmith, London\nW6 8AB\nUK",
+        "name" : "Hammersmith Station",
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1573057899527",
+        "endTimestampMs" : "1573058274081"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 514925087,
+      "centerLngE7" : -2237713
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 514920923,
+        "longitudeE7" : -2232132,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 514941614,
+        "longitudeE7" : -1739557,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1573058274081",
+        "endTimestampMs" : "1573058906700"
+      },
+      "distance" : 3655,
+      "activityType" : "IN_SUBWAY",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 95.30084287724799
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 2.5601054433644013
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 1.6215221187367703
+      } ],
+      "transitPath" : {
+        "transitStops" : [ {
+          "latitudeE7" : 514923860,
+          "longitudeE7" : -2239100,
+          "placeId" : "ChIJH8xAm7cPdkgRzkghb1eoPCs",
+          "name" : "Hammersmith Station"
+        }, {
+          "latitudeE7" : 514941614,
+          "longitudeE7" : -1739557,
+          "placeId" : "ChIJ91cwg0IFdkgR18p5WmlWiTY",
+          "name" : "South Kensington"
+        } ],
+        "name" : "",
+        "hexRgbColor" : "000097"
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 514941614,
+        "longitudeE7" : -1739557,
+        "placeId" : "ChIJ91cwg0IFdkgR18p5WmlWiTY",
+        "address" : "Pelham St\nSouth Kensington, London\nSW7 2NB\nUK",
+        "name" : "South Kensington Station",
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1573058906700",
+        "endTimestampMs" : "1573059399629"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 514942100,
+      "centerLngE7" : -1738661
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 514941614,
+        "longitudeE7" : -1739557,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 514978095,
+        "longitudeE7" : -1745235,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1573059399629",
+        "endTimestampMs" : "1573059607905"
+      },
+      "distance" : 410,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 93.00576518485059
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 5.688517207725793
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.7547654924738546
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 514944076,
+          "lngE7" : -1740656
+        }, {
+          "latE7" : 514959259,
+          "lngE7" : -1736617
+        }, {
+          "latE7" : 514976768,
+          "lngE7" : -1742132
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 514978095,
+        "longitudeE7" : -1745235,
+        "placeId" : "ChIJP9oAE0MFdkgR3iKGFKZO1SE",
+        "address" : "Exhibition Rd\nSouth Kensington, London\nSW7 2DD\nUK",
+        "name" : "Science Museum",
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1573059607905",
+        "endTimestampMs" : "1573064151160"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "childVisits" : [ {
+        "location" : {
+          "latitudeE7" : 514979899,
+          "longitudeE7" : -1745124,
+          "placeId" : "ChIJxS1TakMFdkgRBMsu1d23DjU",
+          "address" : "Imperial College Rd\nKensington, London\nSW7 4YQ\nUK",
+          "name" : "Dyson School of Design Engineering, Imperial College London",
+          "sourceInfo" : {
+            "deviceTag" : -1853785651
+          }
+        },
+        "duration" : {
+          "startTimestampMs" : "1573059607905",
+          "endTimestampMs" : "1573064151160"
+        },
+        "placeConfidence" : "MEDIUM_CONFIDENCE",
+        "centerLatE7" : 514980077,
+        "centerLngE7" : -1745302
+      } ],
+      "centerLatE7" : 514980077,
+      "centerLngE7" : -1745302
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 514979749,
+        "longitudeE7" : -1759988,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 514946190,
+        "longitudeE7" : -1881446,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1573064151160",
+        "endTimestampMs" : "1573065066607"
+      },
+      "distance" : 1251,
+      "activityType" : "WALKING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 78.20207051829473
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 19.695813232345873
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 1.0391968303553383
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 514980163,
+          "lngE7" : -1760071
+        }, {
+          "latE7" : 514975814,
+          "lngE7" : -1836856
+        }, {
+          "latE7" : 514975357,
+          "lngE7" : -1836767
+        }, {
+          "latE7" : 514950447,
+          "lngE7" : -1827719
+        }, {
+          "latE7" : 514945564,
+          "lngE7" : -1881458
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 514949270,
+        "longitudeE7" : -1886517,
+        "placeId" : "ChIJxYfXiV8FdkgRBpYr6sKIgXM",
+        "address" : "158A Cromwell Rd\nKensington, London\nSW7 4EJ\nUK",
+        "name" : "Sainsbury's",
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1573065066607",
+        "endTimestampMs" : "1573079433877"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 514946087,
+      "centerLngE7" : -1891708
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 514945686,
+        "longitudeE7" : -1885530,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 514987997,
+        "longitudeE7" : -1748772,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1573079433877",
+        "endTimestampMs" : "1573080595316"
+      },
+      "distance" : 1406,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 87.41672870083099
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 7.55922544073502
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 3.0455355998373785
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 514945602,
+          "lngE7" : -1885530
+        }, {
+          "latE7" : 514953422,
+          "lngE7" : -1788308
+        }, {
+          "latE7" : 514996490,
+          "lngE7" : -1795794
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 514987997,
+        "longitudeE7" : -1748772,
+        "placeId" : "ChIJAQoi2mcFdkgRhi5pHDcbkTE",
+        "address" : "South Kensington, London\nSW7 2AZ\nUK",
+        "name" : "Imperial College London",
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1573080595316",
+        "endTimestampMs" : "1573089270755"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "childVisits" : [ {
+        "location" : {
+          "latitudeE7" : 514999388,
+          "longitudeE7" : -1780609,
+          "placeId" : "ChIJXUisT1sFdkgRpz6Aotu1pgk",
+          "address" : "Prince Consort Rd\nSouth Kensington, London\nSW7 2BB\nUK",
+          "name" : "Imperial College Union",
+          "sourceInfo" : {
+            "deviceTag" : -1853785651
+          }
+        },
+        "duration" : {
+          "startTimestampMs" : "1573080595316",
+          "endTimestampMs" : "1573089270755"
+        },
+        "placeConfidence" : "MEDIUM_CONFIDENCE",
+        "centerLatE7" : 515002636,
+        "centerLngE7" : -1781937
+      } ],
+      "centerLatE7" : 515002636,
+      "centerLngE7" : -1781937
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 514987997,
+        "longitudeE7" : -1748772,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 514953565,
+        "longitudeE7" : -1798037,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1573089270755",
+        "endTimestampMs" : "1573089419974"
+      },
+      "distance" : 600,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 94.77766847945308
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 1.4685430486601905
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 1.399042243949068
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 514972877,
+          "lngE7" : -1795652
+        }, {
+          "latE7" : 514977493,
+          "lngE7" : -1793459
+        }, {
+          "latE7" : 514962196,
+          "lngE7" : -1790180
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 514953565,
+        "longitudeE7" : -1798037,
+        "placeId" : "ChIJgcuApF0FdkgRTLP9wOWf-CE",
+        "address" : "South Kensington, London\nSW7 5BE\nUK",
+        "name" : "Natural History Museum Queens Gate (Stop GL)",
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1573089419974",
+        "endTimestampMs" : "1573089780153"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 514954543,
+      "centerLngE7" : -1792929
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 514950097,
+        "longitudeE7" : -1802956,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 514941254,
+        "longitudeE7" : -1895530,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1573089780153",
+        "endTimestampMs" : "1573090500531"
+      },
+      "distance" : 729,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 95.14201872182988
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 1.375912257064745
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 1.1953711044855821
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 514953460,
+          "lngE7" : -1798001
+        }, {
+          "latE7" : 514949264,
+          "lngE7" : -1854157
+        }, {
+          "latE7" : 514932403,
+          "lngE7" : -1879180
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 514941254,
+        "longitudeE7" : -1895530,
+        "placeId" : "ChIJlajgMvUPdkgR66jThI8RfOQ",
+        "address" : "17 Collingham Pl\nEarl's Court, London\nSW5 0QF\nUK",
+        "name" : "17 Collingham Pl",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1573090500531",
+        "endTimestampMs" : "1573128322967"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 514942194,
+      "centerLngE7" : -1894249
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 514946285,
+        "longitudeE7" : -1880151,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 514981317,
+        "longitudeE7" : -1778770,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1573128322967",
+        "endTimestampMs" : "1573129099013"
+      },
+      "distance" : 933,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 87.34511929734005
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 9.780628861779606
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 1.1861933997379688
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 514945640,
+          "lngE7" : -1879287
+        }, {
+          "latE7" : 514949264,
+          "lngE7" : -1854157
+        }, {
+          "latE7" : 514965553,
+          "lngE7" : -1849694
+        }, {
+          "latE7" : 514967041,
+          "lngE7" : -1834011
+        }, {
+          "latE7" : 514968490,
+          "lngE7" : -1822849
+        }, {
+          "latE7" : 514979171,
+          "lngE7" : -1795461
+        }, {
+          "latE7" : 514979133,
+          "lngE7" : -1782362
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 514987997,
+        "longitudeE7" : -1748772,
+        "placeId" : "ChIJAQoi2mcFdkgRhi5pHDcbkTE",
+        "address" : "South Kensington, London\nSW7 2AZ\nUK",
+        "name" : "Imperial College London",
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1573129099013",
+        "endTimestampMs" : "1573134628362"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "childVisits" : [ {
+        "location" : {
+          "latitudeE7" : 514982841,
+          "longitudeE7" : -1781899,
+          "placeId" : "ChIJE09ckFwFdkgRNaKPsd1xjW0",
+          "address" : "Imperial College London\nSouth Kensington Campus\nSouth Kensington, London\nSW7 2AZ\nUK",
+          "name" : "Imperial College London Central Library",
+          "sourceInfo" : {
+            "deviceTag" : -1853785651
+          }
+        },
+        "duration" : {
+          "startTimestampMs" : "1573129099013",
+          "endTimestampMs" : "1573129791513"
+        },
+        "placeConfidence" : "MEDIUM_CONFIDENCE",
+        "centerLatE7" : 514980525,
+        "centerLngE7" : -1778200
+      }, {
+        "location" : {
+          "latitudeE7" : 514993300,
+          "longitudeE7" : -1747860,
+          "placeId" : "ChIJAQoi2mcFdkgRMoqBXBw92Is",
+          "address" : "Imperial College Business School\nSouth Kensington Campus\nAyrton Rd\nKensington, London\nSW7 2AZ\nUK",
+          "name" : "Imperial College Business School",
+          "sourceInfo" : {
+            "deviceTag" : -1853785651
+          }
+        },
+        "duration" : {
+          "startTimestampMs" : "1573132922894",
+          "endTimestampMs" : "1573134628362"
+        },
+        "placeConfidence" : "LOW_CONFIDENCE",
+        "centerLatE7" : 514992279,
+        "centerLngE7" : -1749830
+      } ],
+      "centerLatE7" : 514989479,
+      "centerLngE7" : -1759496
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 514987997,
+        "longitudeE7" : -1748772,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 514978095,
+        "longitudeE7" : -1745235,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1573134628362",
+        "endTimestampMs" : "1573135890297"
+      },
+      "distance" : 197,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 97.82950901316339
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.8385031720190829
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.5283644636887523
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 514987716,
+          "lngE7" : -1752393
+        }, {
+          "latE7" : 514980812,
+          "lngE7" : -1751073
+        }, {
+          "latE7" : 514976768,
+          "lngE7" : -1742132
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 514978095,
+        "longitudeE7" : -1745235,
+        "placeId" : "ChIJP9oAE0MFdkgR3iKGFKZO1SE",
+        "address" : "Exhibition Rd\nSouth Kensington, London\nSW7 2DD\nUK",
+        "name" : "Science Museum",
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1573135890297",
+        "endTimestampMs" : "1573140278969"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "childVisits" : [ {
+        "location" : {
+          "latitudeE7" : 514979899,
+          "longitudeE7" : -1745124,
+          "placeId" : "ChIJxS1TakMFdkgRBMsu1d23DjU",
+          "address" : "Imperial College Rd\nKensington, London\nSW7 4YQ\nUK",
+          "name" : "Dyson School of Design Engineering, Imperial College London",
+          "sourceInfo" : {
+            "deviceTag" : -1853785651
+          }
+        },
+        "duration" : {
+          "startTimestampMs" : "1573135890297",
+          "endTimestampMs" : "1573140278969"
+        },
+        "placeConfidence" : "MEDIUM_CONFIDENCE",
+        "centerLatE7" : 514980264,
+        "centerLngE7" : -1742344
+      } ],
+      "centerLatE7" : 514980264,
+      "centerLngE7" : -1742344
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 514978095,
+        "longitudeE7" : -1745235,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 514939924,
+        "longitudeE7" : -1791965,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1573140278969",
+        "endTimestampMs" : "1573140657987"
+      },
+      "distance" : 541,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 95.5865439319328
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 1.6603766608722683
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 1.111387356443446
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 514976768,
+          "lngE7" : -1742132
+        }, {
+          "latE7" : 514959259,
+          "lngE7" : -1736617
+        }, {
+          "latE7" : 514939765,
+          "lngE7" : -1793525
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 514939924,
+        "longitudeE7" : -1791965,
+        "placeId" : "ChIJf1DJgV0FdkgRX-x_e6jAA7g",
+        "address" : "86\n87 Queen's Gate\nSouth Kensington, London\nSW7 5JX\nUK",
+        "name" : "Glendower Preparatory School",
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1573140657987",
+        "endTimestampMs" : "1573147121826"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 514940331,
+      "centerLngE7" : -1788633
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 514939924,
+        "longitudeE7" : -1791965,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 514943657,
+        "longitudeE7" : -1895052,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1573147121826",
+        "endTimestampMs" : "1573147738264"
+      },
+      "distance" : 753,
+      "activityType" : "WALKING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 50.68480719461609
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 41.72286192403272
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 5.101500174225708
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 514939765,
+          "lngE7" : -1793525
+        }, {
+          "latE7" : 514947547,
+          "lngE7" : -1853753
+        }, {
+          "latE7" : 514940414,
+          "lngE7" : -1894302
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 514941254,
+        "longitudeE7" : -1895530,
+        "placeId" : "ChIJlajgMvUPdkgR66jThI8RfOQ",
+        "address" : "17 Collingham Pl\nEarl's Court, London\nSW5 0QF\nUK",
+        "name" : "17 Collingham Pl",
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1573147738264",
+        "endTimestampMs" : "1573232380745"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 514942903,
+      "centerLngE7" : -1895378
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 514943657,
+        "longitudeE7" : -1895052,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 514978095,
+        "longitudeE7" : -1745235,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1573232380745",
+        "endTimestampMs" : "1573234059190"
+      },
+      "distance" : 1294,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 98.0729896633103
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 1.1630760335802646
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.24238909392766492
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 514944801,
+          "lngE7" : -1894991
+        }, {
+          "latE7" : 514945716,
+          "lngE7" : -1889308
+        }, {
+          "latE7" : 514934959,
+          "lngE7" : -1853991
+        }, {
+          "latE7" : 514943122,
+          "lngE7" : -1823679
+        }, {
+          "latE7" : 514959106,
+          "lngE7" : -1826388
+        }, {
+          "latE7" : 514979171,
+          "lngE7" : -1795461
+        }, {
+          "latE7" : 514976768,
+          "lngE7" : -1742132
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 514978095,
+        "longitudeE7" : -1745235,
+        "placeId" : "ChIJP9oAE0MFdkgR3iKGFKZO1SE",
+        "address" : "Exhibition Rd\nSouth Kensington, London\nSW7 2DD\nUK",
+        "name" : "Science Museum",
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1573234059190",
+        "endTimestampMs" : "1573238488521"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "childVisits" : [ {
+        "location" : {
+          "latitudeE7" : 514979899,
+          "longitudeE7" : -1745124,
+          "placeId" : "ChIJxS1TakMFdkgRBMsu1d23DjU",
+          "address" : "Imperial College Rd\nKensington, London\nSW7 4YQ\nUK",
+          "name" : "Dyson School of Design Engineering, Imperial College London",
+          "sourceInfo" : {
+            "deviceTag" : -1853785651
+          }
+        },
+        "duration" : {
+          "startTimestampMs" : "1573234059190",
+          "endTimestampMs" : "1573238488521"
+        },
+        "placeConfidence" : "MEDIUM_CONFIDENCE",
+        "centerLatE7" : 514980308,
+        "centerLngE7" : -1744042
+      } ],
+      "centerLatE7" : 514980308,
+      "centerLngE7" : -1744042
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 514978095,
+        "longitudeE7" : -1745235,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 514941680,
+        "longitudeE7" : -1725549,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1573238488521",
+        "endTimestampMs" : "1573238979131"
+      },
+      "distance" : 577,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 89.27991399300228
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 5.723699633080124
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 3.1081814176865348
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 514976768,
+          "lngE7" : -1742132
+        }, {
+          "latE7" : 514959259,
+          "lngE7" : -1736617
+        }, {
+          "latE7" : 514938507,
+          "lngE7" : -1726173
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 514940910,
+        "longitudeE7" : -1731158,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 515126781,
+        "longitudeE7" : -847136,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1573238979131",
+        "endTimestampMs" : "1573240401590"
+      },
+      "distance" : 7027,
+      "activityType" : "IN_SUBWAY",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 94.29027714345702
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 4.926127684840507
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.4605890723917896
+      } ],
+      "transitPath" : {
+        "transitStops" : [ {
+          "latitudeE7" : 514941614,
+          "longitudeE7" : -1739557,
+          "placeId" : "ChIJ91cwg0IFdkgR18p5WmlWiTY",
+          "name" : "South Kensington"
+        }, {
+          "latitudeE7" : 515101178,
+          "longitudeE7" : -766609,
+          "placeId" : "ChIJYRsYAUwDdkgRWD9yGC0gqek",
+          "name" : "Tower Hill"
+        } ],
+        "name" : "",
+        "hexRgbColor" : "0D611F"
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 515126781,
+        "longitudeE7" : -847136,
+        "placeId" : "ChIJaXXC_VIDdkgRo16i2V8aKMA",
+        "address" : "9 Gracechurch St\nLangbourn, London\nEC3V 0DR\nUK",
+        "name" : "The Crosse Keys",
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1573240401590",
+        "endTimestampMs" : "1573242794977"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 515127144,
+      "centerLngE7" : -848251
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 515117425,
+        "longitudeE7" : -850507,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 514639261,
+        "longitudeE7" : -1139322,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1573242794977",
+        "endTimestampMs" : "1573244719325"
+      },
+      "distance" : 9841,
+      "activityType" : "IN_SUBWAY",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 91.63788057333598
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 3.9306900582997137
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 3.467781551769853
+      } ],
+      "transitPath" : {
+        "transitStops" : [ {
+          "latitudeE7" : 515108828,
+          "longitudeE7" : -866087,
+          "placeId" : "ChIJw6LfxVMDdkgR4vqI2PwF66w",
+          "name" : "Monument Station"
+        }, {
+          "latitudeE7" : 514952103,
+          "longitudeE7" : -1438979,
+          "placeId" : "ChIJTdzrqiEFdkgRFf1sCDZPNl0",
+          "name" : "Victoria Station"
+        } ],
+        "name" : "",
+        "hexRgbColor" : "F2BD09"
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 514639261,
+        "longitudeE7" : -1139322,
+        "placeId" : "ChIJr_bXS2YEdkgRzm_lUJiOSQ4",
+        "address" : "21 Beehive Pl\nBrixton, London\nSW9 7QR\nUK",
+        "name" : "Identity School of Acting Ltd",
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1573244719325",
+        "endTimestampMs" : "1573253027082"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 514638826,
+      "centerLngE7" : -1140458
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 514635273,
+        "longitudeE7" : -1145720,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 514626799,
+        "longitudeE7" : -1146895,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1573253027082",
+        "endTimestampMs" : "1573253454209"
+      },
+      "distance" : 150,
+      "activityType" : "WALKING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 73.3817065864629
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 10.922021134713315
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 8.11672914235178
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 514635353,
+          "lngE7" : -1145654
+        }, {
+          "latE7" : 514632568,
+          "lngE7" : -1147966
+        }, {
+          "latE7" : 514627075,
+          "lngE7" : -1149327
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 514626799,
+        "longitudeE7" : -1146895,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 514921942,
+        "longitudeE7" : -1928710,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1573253454209",
+        "endTimestampMs" : "1573254963229"
+      },
+      "distance" : 6331,
+      "activityType" : "IN_SUBWAY",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 87.83342086599237
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 7.389236851540239
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 4.174359044213394
+      } ],
+      "transitPath" : {
+        "transitStops" : [ {
+          "latitudeE7" : 514625983,
+          "longitudeE7" : -1147482,
+          "placeId" : "ChIJ-Q0Y1GcEdkgRpwW1k3QNek0",
+          "name" : "Brixton Station"
+        }, {
+          "latitudeE7" : 515067400,
+          "longitudeE7" : -1428472,
+          "placeId" : "ChIJQRZgSygFdkgRrZelNQQCpf8",
+          "name" : "Green Park Station"
+        } ],
+        "name" : "",
+        "hexRgbColor" : "118DDA"
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 514916827,
+        "longitudeE7" : -1915138,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 514949270,
+        "longitudeE7" : -1886517,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1573254963229",
+        "endTimestampMs" : "1573255280989"
+      },
+      "distance" : 554,
+      "activityType" : "WALKING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 78.75933173244685
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 16.234559311807303
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 2.6011504307590267
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 514921951,
+          "lngE7" : -1928703
+        }, {
+          "latE7" : 514938278,
+          "lngE7" : -1910787
+        }, {
+          "latE7" : 514944801,
+          "lngE7" : -1894991
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 514949270,
+        "longitudeE7" : -1886517,
+        "placeId" : "ChIJxYfXiV8FdkgRBpYr6sKIgXM",
+        "address" : "158A Cromwell Rd\nKensington, London\nSW7 4EJ\nUK",
+        "name" : "Sainsbury's",
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1573255280989",
+        "endTimestampMs" : "1573302739685"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 514943084,
+      "centerLngE7" : -1893867
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 514938257,
+        "longitudeE7" : -1898315,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 514933155,
+        "longitudeE7" : -1943697,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1573302739685",
+        "endTimestampMs" : "1573303005931"
+      },
+      "distance" : 378,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 97.2464144718437
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.8340528936123718
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.7043350981955725
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 514938049,
+          "lngE7" : -1897944
+        }, {
+          "latE7" : 514922523,
+          "lngE7" : -1929475
+        }, {
+          "latE7" : 514933090,
+          "lngE7" : -1943957
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 514933155,
+        "longitudeE7" : -1943697,
+        "placeId" : "ChIJrZ61r4wPdkgR9YBetu_HPDE",
+        "address" : "139 Earls Ct Rd\nEarl's Court, London\nSW5 9RH\nUK",
+        "name" : "Kappa",
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1573303005931",
+        "endTimestampMs" : "1573309007702"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 514930734,
+      "centerLngE7" : -1941784
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 514933155,
+        "longitudeE7" : -1943697,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 514943657,
+        "longitudeE7" : -1895052,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1573309007702",
+        "endTimestampMs" : "1573309468187"
+      },
+      "distance" : 380,
+      "activityType" : "WALKING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 82.75954504271826
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 8.601981502022038
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 3.9081796564022393
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 514933090,
+          "lngE7" : -1943957
+        }, {
+          "latE7" : 514927597,
+          "lngE7" : -1937952
+        }, {
+          "latE7" : 514944801,
+          "lngE7" : -1894991
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 514941254,
+        "longitudeE7" : -1895530,
+        "placeId" : "ChIJlajgMvUPdkgR66jThI8RfOQ",
+        "address" : "17 Collingham Pl\nEarl's Court, London\nSW5 0QF\nUK",
+        "name" : "17 Collingham Pl",
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1573309468187",
+        "endTimestampMs" : "1573314166842"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 514944016,
+      "centerLngE7" : -1895382
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 514943657,
+        "longitudeE7" : -1895052,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 514877703,
+        "longitudeE7" : -1948866,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1573314166842",
+        "endTimestampMs" : "1573314806481"
+      },
+      "distance" : 872,
+      "activityType" : "WALKING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 60.92680214914654
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 28.22874289233984
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 3.333117932092063
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 514944801,
+          "lngE7" : -1894991
+        }, {
+          "latE7" : 514921875,
+          "lngE7" : -1930463
+        }, {
+          "latE7" : 514915428,
+          "lngE7" : -1936133
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 514913559,
+        "longitudeE7" : -1940475,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 514763855,
+        "longitudeE7" : -1996093,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1573314806481",
+        "endTimestampMs" : "1573315088792"
+      },
+      "distance" : 1718,
+      "activityType" : "IN_SUBWAY",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 94.29563311407874
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 4.077368380049194
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.5721149123405145
+      } ],
+      "transitPath" : {
+        "transitStops" : [ {
+          "latitudeE7" : 514872591,
+          "longitudeE7" : -1955188,
+          "placeId" : "ChIJtwyqlI4PdkgRwsyoCUIANKg",
+          "name" : "West Brompton"
+        }, {
+          "latitudeE7" : 514752816,
+          "longitudeE7" : -2010216,
+          "placeId" : "ChIJE6uoH50PdkgRa75h1tOp0-I",
+          "name" : "Parsons Green"
+        } ],
+        "name" : "",
+        "hexRgbColor" : "0D611F"
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 514763855,
+        "longitudeE7" : -1996093,
+        "placeId" : "ChIJ58qsxJwPdkgR75ELwG_4mnU",
+        "address" : "5, Parson Green Depot\n33-35 Parsons Green Ln\nParsons Green, London\nSW6 4HH\nUK",
+        "name" : "The Climbing Hangar London",
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1573315088792",
+        "endTimestampMs" : "1573323742103"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 514763897,
+      "centerLngE7" : -1995841
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 514761023,
+        "longitudeE7" : -2003620,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 514807417,
+        "longitudeE7" : -1943949,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1573323742103",
+        "endTimestampMs" : "1573324116104"
+      },
+      "distance" : 660,
+      "activityType" : "WALKING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 68.01914776852892
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 27.519668799322545
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 1.5708327610800759
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 514760704,
+          "lngE7" : -2003235
+        }, {
+          "latE7" : 514754295,
+          "lngE7" : -2008074
+        }, {
+          "latE7" : 514753608,
+          "lngE7" : -2008080
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 514753602,
+        "longitudeE7" : -2007652,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 514949270,
+        "longitudeE7" : -1886517,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1573324116104",
+        "endTimestampMs" : "1573324800131"
+      },
+      "distance" : 2379,
+      "activityType" : "IN_SUBWAY",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 87.96222933273431
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 9.959953568614297
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 1.1432375037997826
+      } ],
+      "transitPath" : {
+        "transitStops" : [ {
+          "latitudeE7" : 514752816,
+          "longitudeE7" : -2010216,
+          "placeId" : "ChIJE6uoH50PdkgRa75h1tOp0-I",
+          "name" : "Parsons Green"
+        }, {
+          "latitudeE7" : 514943050,
+          "longitudeE7" : -1830810,
+          "placeId" : "ChIJY2zjBF4FdkgRBITPvkNYBho",
+          "name" : "Gloucester Road"
+        } ],
+        "name" : "",
+        "hexRgbColor" : "0D611F"
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 514949270,
+        "longitudeE7" : -1886517,
+        "placeId" : "ChIJxYfXiV8FdkgRBpYr6sKIgXM",
+        "address" : "158A Cromwell Rd\nKensington, London\nSW7 4EJ\nUK",
+        "name" : "Sainsbury's",
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1573324800131",
+        "endTimestampMs" : "1573325888561"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 514949669,
+      "centerLngE7" : -1884931
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 514949270,
+        "longitudeE7" : -1886517,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 514943657,
+        "longitudeE7" : -1895052,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1573325888561",
+        "endTimestampMs" : "1573326019965"
+      },
+      "distance" : 134,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 95.36501420933996
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 2.9395522283336852
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.7453220060885444
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 514940795,
+          "lngE7" : -1893565
+        }, {
+          "latE7" : 514945716,
+          "lngE7" : -1889308
+        }, {
+          "latE7" : 514944801,
+          "lngE7" : -1894991
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 514941254,
+        "longitudeE7" : -1895530,
+        "placeId" : "ChIJlajgMvUPdkgR66jThI8RfOQ",
+        "address" : "17 Collingham Pl\nEarl's Court, London\nSW5 0QF\nUK",
+        "name" : "17 Collingham Pl",
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1573326019965",
+        "endTimestampMs" : "1573378178058"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 514943178,
+      "centerLngE7" : -1895510
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 514936664,
+        "longitudeE7" : -1905516,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 514852585,
+        "longitudeE7" : -2086389,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1573378178058",
+        "endTimestampMs" : "1573378790233"
+      },
+      "distance" : 2009,
+      "activityType" : "CYCLING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 96.75956015304263
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.9166821046012283
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.8296492921170808
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 514936676,
+          "lngE7" : -1905501
+        }, {
+          "latE7" : 514908370,
+          "lngE7" : -1910703
+        }, {
+          "latE7" : 514840545,
+          "lngE7" : -2051275
+        }, {
+          "latE7" : 514854278,
+          "lngE7" : -2070658
+        }, {
+          "latE7" : 514853553,
+          "lngE7" : -2087416
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 514843548,
+        "longitudeE7" : -2083899,
+        "placeId" : "ChIJx3gedZcPdkgRvW1HiEoUrow",
+        "address" : "Normand Park\nLillie Rd\nHammersmith, London\nSW6 7ST\nUK",
+        "name" : "Virgin Active",
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1573378790233",
+        "endTimestampMs" : "1573382018443"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 514848447,
+      "centerLngE7" : -2081382
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 514843548,
+        "longitudeE7" : -2083899,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 514943657,
+        "longitudeE7" : -1895052,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1573382018443",
+        "endTimestampMs" : "1573382629000"
+      },
+      "distance" : 1800,
+      "activityType" : "CYCLING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 98.6588293202453
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.6050651771595046
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.45095046148337103
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 514843406,
+          "lngE7" : -2082225
+        }, {
+          "latE7" : 514855766,
+          "lngE7" : -2024953
+        }, {
+          "latE7" : 514936561,
+          "lngE7" : -1905377
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 514941254,
+        "longitudeE7" : -1895530,
+        "placeId" : "ChIJlajgMvUPdkgR66jThI8RfOQ",
+        "address" : "17 Collingham Pl\nEarl's Court, London\nSW5 0QF\nUK",
+        "name" : "17 Collingham Pl",
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1573382629000",
+        "endTimestampMs" : "1573388752000"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 514943114,
+      "centerLngE7" : -1895330
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 514935580,
+        "longitudeE7" : -1905458,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 514872591,
+        "longitudeE7" : -1955188,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1573388752000",
+        "endTimestampMs" : "1573389735245"
+      },
+      "distance" : 1163,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 90.35746553028089
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 6.412961285282999
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.9634498620278976
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 514935646,
+          "lngE7" : -1905598
+        }, {
+          "latE7" : 514868545,
+          "lngE7" : -1974173
+        }, {
+          "latE7" : 514863815,
+          "lngE7" : -1981981
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 514872503,
+        "longitudeE7" : -1955253,
+        "placeId" : "ChIJtwyqlI4PdkgRwsyoCUIANKg",
+        "address" : "Kensington, London\nSW5 9JX\nUK",
+        "name" : "West Brompton",
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1573389735245",
+        "endTimestampMs" : "1573390130000"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 514863167,
+      "centerLngE7" : -1983362
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 514862227,
+        "longitudeE7" : -1991505,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 514384834,
+        "longitudeE7" : -2192971,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1573390130000",
+        "endTimestampMs" : "1573391828000"
+      },
+      "distance" : 7660,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 95.86728927459048
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 2.1733589658059356
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 1.5604386176882503
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 514862365,
+          "lngE7" : -1991585
+        }, {
+          "latE7" : 514628334,
+          "lngE7" : -1853231
+        }, {
+          "latE7" : 514568748,
+          "lngE7" : -1898152
+        }, {
+          "latE7" : 514568099,
+          "lngE7" : -1928905
+        }, {
+          "latE7" : 514385986,
+          "lngE7" : -2193306
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 514385561,
+        "longitudeE7" : -2190932,
+        "placeId" : "ChIJB41fHTEPdkgRdXQB66K3q4E",
+        "address" : "36 Queensmere Rd\nWimbledon, London\nSW19 5PB\nUK",
+        "name" : "36 Queensmere Rd",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1573391828000",
+        "endTimestampMs" : "1573404206000"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 514384430,
+      "centerLngE7" : -2192446
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 514384716,
+        "longitudeE7" : -2198364,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 514940530,
+        "longitudeE7" : -1893663,
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1573404206000",
+        "endTimestampMs" : "1573406269000"
+      },
+      "distance" : 10546,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 96.86973762325259
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 1.538678215709976
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.7348713091088201
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 514384994,
+          "lngE7" : -2198466
+        }, {
+          "latE7" : 514478149,
+          "lngE7" : -2228495
+        }, {
+          "latE7" : 514574966,
+          "lngE7" : -2184851
+        }, {
+          "latE7" : 514632301,
+          "lngE7" : -2110079
+        }, {
+          "latE7" : 514608306,
+          "lngE7" : -2013764
+        }, {
+          "latE7" : 514628562,
+          "lngE7" : -1856496
+        }, {
+          "latE7" : 514690475,
+          "lngE7" : -1770150
+        }, {
+          "latE7" : 514811782,
+          "lngE7" : -1725296
+        }, {
+          "latE7" : 514933052,
+          "lngE7" : -1901548
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 514941254,
+        "longitudeE7" : -1895530,
+        "placeId" : "ChIJlajgMvUPdkgR66jThI8RfOQ",
+        "address" : "17 Collingham Pl\nEarl's Court, London\nSW5 0QF\nUK",
+        "name" : "17 Collingham Pl",
+        "sourceInfo" : {
+          "deviceTag" : -1853785651
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1573406269000",
+        "endTimestampMs" : "1573412418984"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 514941496,
+      "centerLngE7" : -1895693
+    }
+  } ]
+}
